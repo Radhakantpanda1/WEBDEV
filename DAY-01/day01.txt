@@ -1,0 +1,6 @@
+It's my first day of tarting webdev and today I learnt about how websites work .
+HTML forms the skeleton of website which is styled using CSS and functionality is provided using JAVASCRIPT.
+The client searches for information on browser and the browser requests the corresponding sever for the information which includes images ,videos and a lot.
+The browser downloads the HTML CSS JS and other files and renders them and shows the result to the client. 
+The CSS is extenally linked to the HTML file via <link rel="stylesheet" href="#">(written inside head tag) .This establishes a relationship/link  between the HTML and the corresponding CSS.
+The JS is extenally linked to the HTML file via <script src="./script.js"></script> (written inside the body tag at the end).This establishes a relationship/link  between the HTML and the corresponding JS.
