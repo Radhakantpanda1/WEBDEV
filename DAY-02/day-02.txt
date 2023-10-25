@@ -1,0 +1,22 @@
+understanding the boilerplate code 
+
+<!DOCTYPE html>
+// it defines the type of document i.e. HTML
+
+<html lang="en">
+// lang is an attribute of the html tag with value en which means the english language
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  //meta tag is used to display the meta information
+
+    <title>Document</title>
+         Title of the webpage is defined by the title tag
+</head>
+
+<body>
+    // the ccontent present inside the body is displayed in the webpage
+</body>
+
+</html>
