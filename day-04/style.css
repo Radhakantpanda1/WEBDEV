@@ -1,0 +1,29 @@
+
+#im{
+    height:80vh;
+    width:60vw;
+    border: 10px solid salmon;
+    border-radius: 10px;
+    background-color: red;
+}
+img{
+    height: 100%;
+    width: 100%;
+    
+}
+#harry{
+    height: 250px;
+    width: 250px;
+    border: 5px solid salmon;
+    border-radius: 5px;
+   
+}
+#hry{
+    height: 100%;
+    width: 100%;
+    object-fit: fill;
+}
+#hry:hover{
+    border: 1px solid palegreen;
+}
+
