@@ -1,0 +1,16 @@
+SEO and Core Web Vitals
+
+SEO stands for Search Engine Optimization
+
+CLS-Cumulative Layout Shift
+LCP-Largest Contentful Paint
+FID-First Input Delay
+
+
+It is an important site-
+https://web.dev/
+
+Title must reflect the page Content.
+
+Use of the meta description tag
+<meta name="description" content="">
