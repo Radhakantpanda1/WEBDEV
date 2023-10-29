@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000;
+}
+#main{
+    height: 40vh;
+    width: 30%;
+    border: 5px solid salmon;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20vh;
+    background-image: url(./img.avif);
+    align-items: center;
+}
+#kl{
+    display: inline-block;
+    padding: 10px;
+    width: 100%;
+}
+#ml{
+    display: inline-block;
+    padding: 10px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    font-weight: 900;
+}
+td{
+    color: deeppink;
+}
+#main:hover{
+    background-image: url(./img2.jpg);
+    color: firebrick;
+}
+#sub:hover{
+    background-color: blue;
+}
+#main:hover td{
+   
+    color: maroon;
+    font-weight: 900;
+}
