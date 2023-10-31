@@ -1,0 +1,5 @@
+id- it is an attribute which is used to uniquely identify an element.
+it is unique
+classes-it is used to group more than one tag .
+multiple tags can have same class.
+any tag can have multiple classes
