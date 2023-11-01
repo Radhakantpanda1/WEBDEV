@@ -1,0 +1,24 @@
+iFrames in HTML
+iFrames, or Inline Frames, are an integral part of modern web development. They allow you to embed another HTML page within your current page. In this blog, we'll delve into the utility of iFrames, their attributes, and some use-cases.
+
+What is an iFrame?
+An iFrame is an HTML element that enables an inline frame for the embedding of external content. Essentially, you can load another web page within a designated area of your current webpage.
+
+Why Use iFrames?
+iFrames offer a variety of use-cases:
+
+Content Isolation: iFrames allow you to isolate third-party content, which can improve security.
+Modularity: Easily embed external plugins, widgets, or content.
+Resource Separation: Content within an iFrame can load separately from the rest of the page.
+Basic Syntax
+The basic syntax of an iFrame is quite straightforward:
+
+<iframe src="URL" width="width" height="height"></iframe>
+Attributes of iFrame
+Several attributes can enhance the functionality of an iFrame:
+
+src: Specifies the URL of the page to embed.
+height and width: Define the dimensions.
+frameborder: Indicates whether to display a border.
+scrolling: Controls the scrollbars.
+name: For targeting the iFrame in JavaScript.

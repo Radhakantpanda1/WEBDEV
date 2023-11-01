@@ -1,0 +1,12 @@
+video{
+    height: 50vh;
+    width: 50vw;
+    border: 10px solid salmon;
+    object-fit: cover;
+}
+audio{
+    height: 5vh;
+    width: 100%;
+    border: 5px solid salmon;
+    object-fit: cover;
+}
