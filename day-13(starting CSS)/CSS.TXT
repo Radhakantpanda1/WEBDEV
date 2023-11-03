@@ -1,0 +1,16 @@
+What is CSS?
+CSS stands for Cascading Style Sheets. It is a stylesheet language that is used to describe the visual presentation of a web page written in HTML (Hypertext Markup Language).
+
+HTML creates the structure of the page, while CSS adds styling to that structure. 
+Why the word "cascade"?
+The term "cascade" refers to the priority scheme determining which CSS rules are applied when multiple rules target an element. This scheme takes into account specificity and inheritance, ensuring that the most specific and latest rules are applied.
+Why use CSS?
+CSS is used to provide styling to HTML elements, making web pages visually appealing and user-friendly.
+
+Key Features of CSS:
+Styles and layouts of web pages.
+Works alongside HTML and XML documents.
+Enables responsive design for different screen sizes.
+Supports interactive effects like hover states and animations.
+CSS is now modularized, with ongoing updates rather than version numbers.
+Allows reusability of the same rules across multiple HTML documents.
