@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SELECTORS</title>
+    <style>
+        div>p{
+            background-color: salmon;
+        }
+        section li{
+            background-color: palegreen;
+        }
+        #main{
+            color:darkred;
+        }
+        .mains{
+            color: chocolate;
+            background-color: aquamarine;
+        }
+        a{
+            text-decoration: none;
+        }
+        a:visited{
+            color:deeppink;
+            background-color: palegreen;
+        }
+        a:hover{
+            color:magenta;
+        }
+        
+    </style>
+</head>
+<body>
+    <div>
+        <article>
+            <p>div->article->p</p>
+        </article>
+        <p>div->p</p>
+    </div>
+    <section>
+        <p><ol>
+            <li>section->p->li</li>
+            <li>section->p->li</li>
+        </ol></p>
+    </section>
+    <div id="main">tHIS IS STYLED WITH ID SELECTOR</div>
+    <div class="mains">this is styled with class selector</div>
+    <a href="https://www.google.com">GOOGLE</a>
+</body>
+</html>
