@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#box{
+    height:300px;
+    width: 300px;
+    background-color: deeppink;
+    margin: 50px;
+    padding: 40px;
+    border:5px solid black;
+}
