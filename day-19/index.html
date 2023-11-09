@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>speificity</title>
+    <style>
+        p{
+            background-color: aqua;
+        }
+        .kl{
+            background-color: pink;
+        }
+        .lm{
+            background-color: green;
+        }
+        .op{
+            background-color: magenta;
+        }
+        p{
+            background-color: aqua;
+        }
+        #opp{
+            background-color: palegreen;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <p class="kl lm op" id="opp">Lorem ipsum dolor sit amet.</p>
+        <p style="color: maroon;">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+    </div>
+</body>
+</html>
